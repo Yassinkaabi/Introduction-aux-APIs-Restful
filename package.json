@@ -1,0 +1,30 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "fetch data using request and axios",
+  "main": "request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yassinkaabi/Introduction-aux-APIs-Restful.git"
+  },
+  "keywords": [
+    "request",
+    "axios",
+    "fetch"
+  ],
+  "author": "yassine kaabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yassinkaabi/Introduction-aux-APIs-Restful/issues"
+  },
+  "homepage": "https://github.com/Yassinkaabi/Introduction-aux-APIs-Restful#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "node-fetch": "^3.3.2",
+    "request": "^2.88.2"
+  }
+}
